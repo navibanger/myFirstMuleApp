@@ -17,7 +17,7 @@ output application/json
 ---
 {
 	"status" : 200,
-	"message" : "test demo flow success"
+	"message" : "Deployed with jenkins, update jenkins test"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
